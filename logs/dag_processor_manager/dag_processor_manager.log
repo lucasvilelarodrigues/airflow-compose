@@ -1,0 +1,92 @@
+[2025-03-23T19:38:39.055+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-03-23T19:38:39.063+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-03-23T19:38:39.063+0000] {manager.py:486} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-03-23T19:38:39.064+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-03-23T19:38:39.066+0000] {manager.py:729} INFO - There are 0 files in /opt/airflow/dags
+[2025-03-23T19:40:40.739+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2025-03-23T19:45:39.872+0000] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2025-03-23T19:45:39.905+0000] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2025-03-23T19:45:39.906+0000] {manager.py:486} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-03-23T19:45:39.908+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2025-03-23T19:45:39.955+0000] {manager.py:729} INFO - There are 1 files in /opt/airflow/dags
+[2025-03-23T19:45:40.335+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/smooth.py    117  0.32s             0           0
+================================================================================
+[2025-03-23T19:46:10.541+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  3.85s           2025-03-23T19:45:43
+================================================================================
+[2025-03-23T19:46:40.675+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.42s           2025-03-23T19:46:14
+================================================================================
+[2025-03-23T19:47:10.913+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.31s           2025-03-23T19:46:45
+================================================================================
+[2025-03-23T19:47:40.989+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.50s           2025-03-23T19:47:15
+================================================================================
+[2025-03-23T19:48:11.260+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.34s           2025-03-23T19:47:46
+================================================================================
+[2025-03-23T19:48:41.880+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.43s           2025-03-23T19:48:17
+================================================================================
+[2025-03-23T19:49:11.937+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.35s           2025-03-23T19:48:47
+================================================================================
+[2025-03-23T19:49:42.273+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.45s           2025-03-23T19:49:18
+================================================================================
+[2025-03-23T19:50:12.378+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/smooth.py                           1           0  0.40s           2025-03-23T19:49:49
+================================================================================
+[2025-03-23T19:50:31.036+0000] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
